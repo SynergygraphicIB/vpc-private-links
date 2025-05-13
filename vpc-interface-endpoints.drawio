@@ -496,7 +496,7 @@
           <mxGeometry x="3450" y="1770" width="590" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ty3v557x3w_OxTBp4NkS-2" value="AWS S3" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="4172" y="1470" width="78" height="78" as="geometry" />
+          <mxGeometry x="91" y="1204" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="ty3v557x3w_OxTBp4NkS-9" value="&lt;div&gt;VM with ODBC Dirver&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="4780" y="1930" width="76.5" height="93" as="geometry" />
