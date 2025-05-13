@@ -264,7 +264,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kDkMV14547Gp4_QYpDsI" name="On-prem access thru athena">
-    <mxGraphModel dx="1662" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2653" dy="959" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -332,7 +332,7 @@
         <mxCell id="kA4-ude8m55B4sHBWwIR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#6a00ff;strokeColor=light-dark(#3700CC,#6600CC);strokeWidth=2;flowAnimation=1;" edge="1" parent="1" source="kA4-ude8m55B4sHBWwIR-18" target="kA4-ude8m55B4sHBWwIR-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kA4-ude8m55B4sHBWwIR-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 255)); font-size: 18px;&quot;&gt;1. Request&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 255)); font-size: 18px;&quot;&gt;Request to /nsqs.us-east-1.amazonaws.com&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="kA4-ude8m55B4sHBWwIR-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 255)); font-size: 18px;&quot;&gt;1. Request&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 255)); font-size: 18px;&quot;&gt;Request to /nathena.us-east-1.amazonaws.com&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="1860" y="2050" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kA4-ude8m55B4sHBWwIR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#6a00ff;strokeColor=light-dark(#3700CC,#6600CC);strokeWidth=2;flowAnimation=1;" edge="1" parent="1" source="kA4-ude8m55B4sHBWwIR-20" target="kA4-ude8m55B4sHBWwIR-22">
@@ -486,7 +486,7 @@
         <mxCell id="ty3v557x3w_OxTBp4NkS-3" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=light-dark(#879196,#FF8000);fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;connectable=0;" vertex="1" parent="ty3v557x3w_OxTBp4NkS-1">
           <mxGeometry x="170" y="60" width="630" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="ty3v557x3w_OxTBp4NkS-16" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.transit_gateway;" vertex="1" parent="ty3v557x3w_OxTBp4NkS-1">
+        <mxCell id="ty3v557x3w_OxTBp4NkS-16" value="TGW" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.transit_gateway;" vertex="1" parent="ty3v557x3w_OxTBp4NkS-1">
           <mxGeometry x="430" y="180" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="ty3v557x3w_OxTBp4NkS-12" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_alt2;" vertex="1" parent="1">
